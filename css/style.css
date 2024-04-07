@@ -20,14 +20,16 @@
 	list-style: none;
 }
 .nav__item{
-	color: rgb(228, 228, 228);
+margin-right: 31px;
+}
+.nav__link{
+		color: rgb(228, 228, 228);
 font-family: Inter;
 font-size: 18px;
 font-weight: 400;
 line-height: 21.78px;
 letter-spacing: 0px;
 text-align: left;
-margin-right: 31px;
 }
 .hero-block{
 	background: rgb(44, 44, 44);
